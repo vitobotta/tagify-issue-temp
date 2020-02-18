@@ -1,3 +1,11 @@
 {
-  "tags": ["programming","devops","kubernetes"]
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
