@@ -1,1 +1,3 @@
-["programming","devops","kubernetes"]
+{
+  tags: ["programming","devops","kubernetes"]
+}
